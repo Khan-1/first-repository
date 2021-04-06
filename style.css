@@ -1,0 +1,54 @@
+div{
+    background-color: beige;
+}
+span{
+    font-size: 50px;
+}
+
+h1{
+    color: blue;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#para
+{
+    color: chartreuse;
+}
+.imgone
+{
+    width: 100px;
+    height: 100px;
+}
+#one
+{
+    background-color: chartreuse;
+    position: relative;
+     top:10px; 
+}
+
+#two{
+    background-color: chocolate;
+    
+}
+
+#three{
+    background-color: crimson;
+    position: sticky;
+}
+
+table{
+    background-color: darkblue;
+    width: 50%;
+    /* position: fixed; */
+}
+
+tr{
+    color: darkgray;
+}
+a{
+    color: white;
+}
